@@ -1,6 +1,6 @@
 # Seafood Classifier
 
-This project is a machine learning model designed to classify images as either seafood or not seafood. It uses a Convolutional Neural Network (CNN) built with TensorFlow and Keras.
+This project is a machine learning model designed to classify images as either seafood or normal meat. It uses a Convolutional Neural Network (CNN) built with TensorFlow and Keras.
 
 
 ### Accuracy: 86%
