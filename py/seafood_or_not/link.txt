@@ -1,1 +1,3 @@
 link to collab file: https://colab.research.google.com/drive/1a_jzcUaLOQPAW46cfMiw844B1TJHuWJT#scrollTo=RLuLea3z4vrj
+
+link to model: https://www.kaggle.com/models/pratyushkamal/seafood_or_meat
