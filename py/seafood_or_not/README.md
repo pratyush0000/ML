@@ -2,6 +2,10 @@
 
 This project is a machine learning model designed to classify images as either seafood or not seafood. It uses a Convolutional Neural Network (CNN) built with TensorFlow and Keras.
 
+
+### Accuracy: 86%
+
+
 ## Project Structure
 
 - `train`: Directory containing training images categorized into `Seafood` and `NotSeafood`.
