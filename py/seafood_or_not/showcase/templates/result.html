@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+    <title>Prediction Result</title>
+</head>
+<body>
+    <h1>Prediction Result</h1>
+    <p>{{ prediction }}</p>
+    <img src="{{ url_for('static', filename='uploaded_images/' + img_path.split('/')[-1]) }}" alt="Uploaded Image">
+    <br>
+    <a href="/">Upload another image</a>
+</body>
+</html>
